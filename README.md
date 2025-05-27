@@ -2,6 +2,8 @@
 
 An intelligent food management app that helps you reduce waste, plan meals, and get personalized AI-powered recipe suggestions — all from your pantry and grocery receipts.
 
+🌐 **Live App**: [CookMate AI on Streamlit](https://cookmate-ai.streamlit.app/)
+
 🌟 Features
 
 ✅ **OCR Receipt Scanning** – Upload images of grocery receipts to auto-extract items using EasyOCR and Gemini AI.
